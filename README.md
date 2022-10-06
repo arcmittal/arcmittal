@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arcmittal
-- 👀 I’m your Fintech guy
+- 👀 I’m your quant guy
 
 <!---
 arcmittal/arcmittal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
